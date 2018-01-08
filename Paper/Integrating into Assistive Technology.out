@@ -1,0 +1,28 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{State of the art}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Combination of existing technologies}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Method}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Prerequisites}{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.1.1}{Utilized software}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.2}{Required hardware}{section.2.1}% 7
+\BOOKMARK [1][-]{section.2.2}{Implementation}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.1}{Implementation of Handtracking}{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.2}{Integration into framework}{section.2.2}% 10
+\BOOKMARK [0][-]{chapter.3}{Results}{}% 11
+\BOOKMARK [1][-]{section.3.1}{Technology integrated}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.2}{Usage of Asterics}{chapter.3}% 13
+\BOOKMARK [2][-]{subsection.3.2.1}{Plugin Configuration and Options}{section.3.2}% 14
+\BOOKMARK [2][-]{subsection.3.2.2}{Tracking and Information Window}{section.3.2}% 15
+\BOOKMARK [0][-]{chapter.4}{Discussion}{}% 16
+\BOOKMARK [1][-]{section.4.1}{Steps for approaching integration}{chapter.4}% 17
+\BOOKMARK [2][-]{subsection.4.1.1}{Analyzing extensibility concepts}{section.4.1}% 18
+\BOOKMARK [1][-]{section.4.2}{Combining different programming languages}{chapter.4}% 19
+\BOOKMARK [2][-]{subsection.4.2.1}{Virtues and choosing languages}{section.4.2}% 20
+\BOOKMARK [2][-]{subsection.4.2.2}{Difficulties and compensation}{section.4.2}% 21
+\BOOKMARK [0][-]{chapter*.12}{Bibliography}{}% 22
+\BOOKMARK [0][-]{chapter*.13}{List of Figures}{}% 23
+\BOOKMARK [0][-]{chapter*.14}{List of Tables}{}% 24
+\BOOKMARK [0][-]{chapter*.16}{List of Code}{}% 25
+\BOOKMARK [0][-]{section*.17}{List of Abbreviations}{}% 26
+\BOOKMARK [0][-]{appendix.A}{Anhang A}{}% 27
+\BOOKMARK [0][-]{appendix.B}{Anhang B}{}% 28
