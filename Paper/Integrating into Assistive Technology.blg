@@ -2,47 +2,52 @@ This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Integrating into Assistive Technology.aux
 The style file: gerabbrv.bst
-I found no \citation commands---while reading file Integrating into Assistive Technology.aux
 Database file #1: Literatur.bib
-You've used 0 entries,
+Warning--entry type for "PYTH" isn't style-file defined
+--line 3 of file Literatur.bib
+Warning--entry type for "JAVA" isn't style-file defined
+--line 13 of file Literatur.bib
+Warning--entry type for "CPP" isn't style-file defined
+--line 23 of file Literatur.bib
+You've used 3 entries,
             2344 wiz_defined-function locations,
-            543 strings with 4461 characters,
-and the built_in function-call counts, 20 in all, are:
-= -- 0
-> -- 0
+            555 strings with 4678 characters,
+and the built_in function-call counts, 673 in all, are:
+= -- 60
+> -- 21
 < -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 9
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
++ -- 9
+- -- 6
+* -- 32
+:= -- 107
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 9
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 3
+duplicate$ -- 27
+empty$ -- 76
+format.name$ -- 6
+if$ -- 154
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 3
 missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+newline$ -- 12
+num.names$ -- 6
+pop$ -- 24
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 9
 quote$ -- 0
-skip$ -- 1
+skip$ -- 36
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 15
+swap$ -- 9
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 12
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There was 1 error message)
+while$ -- 6
+width$ -- 4
+write$ -- 20
+(There were 3 warnings)

@@ -1,3 +1,14 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{CPP}
+{\sc {INternational Organization for Standardization}}: {\em {C++ language
+  specification}\/}.
+
+\bibitem{JAVA}
+{\sc {Oracle Corporation}}: {\em {Java, Official Website}\/}.
+
+\bibitem{PYTH}
+{\sc {Python Software Foundation}}: {\em {Python Programming Language, Official
+  Website}\/}.
 
 \end{thebibliography}
