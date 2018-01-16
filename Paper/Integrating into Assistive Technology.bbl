@@ -1,8 +1,24 @@
 \begin{thebibliography}{1}
 
+\bibitem{ECMA404}
+{\sc {Ecma International}}: {\em ECMA-404 -- The JSON Data Interchange
+  Syntax\/}, 2017.
+
+\bibitem{SPD_COMPARISON}
+{\sc Fourment, M.} \btxandshort{.}\ {\sc M.~R. Gillings}: {\em A comparison of
+  common programming languages used in bioinformatics\/}.
+\newblock PubMed Central®, US National Library of Medicine, 2008.
+
 \bibitem{CPP}
-{\sc {INternational Organization for Standardization}}: {\em {C++ language
+{\sc {International Organization for Standardization}}: {\em {C++ language
   specification}\/}.
+
+\bibitem{RFC8259}
+{\sc {Internet Engineering Task Force}}: {\em RFC 8259 -- The JavaScript Object
+  Notation (JSON) Data Interchange Format\/}, 2017.
+
+\bibitem{JSON_SCHEMA}
+{\sc {JSON Schema Project}}: {\em {JSON Schema Website}\/}.
 
 \bibitem{JAVA}
 {\sc {Oracle Corporation}}: {\em {Java, Official Website}\/}.
@@ -10,5 +26,9 @@
 \bibitem{PYTH}
 {\sc {Python Software Foundation}}: {\em {Python Programming Language, Official
   Website}\/}.
+
+\bibitem{XML}
+{\sc {World Wide Web Consortium}}: {\em Extensible Markup Language (XML) 1.0
+  (Fifth Edition)\/}, 2008.
 
 \end{thebibliography}
