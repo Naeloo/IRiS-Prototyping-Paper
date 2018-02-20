@@ -676,7 +676,8 @@ Medicine}}{}
     similar form. I affirm that the version submitted matches the version in
     the upload tool.``\vspace{4\baselineskip}
 
-  \noindent \@place, \today\hspace{0.4\linewidth}Signature
+  \noindent \@place, \today\hspace{0.4\linewidth}Signature\newline\newline
+  \hspace*{10cm}\includegraphics[width=0.2\textwidth]{unterschrift.png}
 \ifx\@kurzfassung\@empty
   \ifx\@schlagworte\@empty
   \else\clearpage\null\vfill\paragraph*{Schlagworte:}\@schlagworte
