@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2017/W32TeX)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: Integrating into Assistive Technology.aux
+The top-level auxiliary file: Development_Gesture_Asterics.aux
 The style file: ieee.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -41,7 +41,7 @@ Warning--empty year in RECOG_ARTICLE
 Done.
 You've used 17 entries,
             4087 wiz_defined-function locations,
-            904 strings with 9561 characters,
+            904 strings with 9543 characters,
 and the built_in function-call counts, 5724 in all, are:
 = -- 395
 > -- 67

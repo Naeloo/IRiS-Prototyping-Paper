@@ -20,12 +20,12 @@
 \contentsline {chapter}{\numberline {3}Plugin development method}{8}{chapter.3}
 \contentsline {section}{\numberline {3.1}User Interface}{8}{section.3.1}
 \contentsline {section}{\numberline {3.2}Development Platforms \& Tools}{8}{section.3.2}
-\contentsline {chapter}{\numberline {4}Implementation}{8}{chapter.4}
-\contentsline {section}{\numberline {4.1}Hardware}{8}{section.4.1}
+\contentsline {chapter}{\numberline {4}Implementation}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}Hardware}{9}{section.4.1}
 \contentsline {section}{\numberline {4.2}Software}{9}{section.4.2}
-\contentsline {section}{\numberline {4.3}Conceptualization}{9}{section.4.3}
-\contentsline {section}{\numberline {4.4}Implementation of Handtracking}{10}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}RealSense and OpenCV}{10}{subsection.4.4.1}
+\contentsline {section}{\numberline {4.3}Conceptualization}{10}{section.4.3}
+\contentsline {section}{\numberline {4.4}Implementation of Handtracking}{11}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}RealSense and OpenCV}{11}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Gesture recognition}{12}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}Tracking and Information Window}{14}{subsection.4.4.3}
 \contentsline {subsection}{\numberline {4.4.4}Independent testing of the native library}{14}{subsection.4.4.4}
